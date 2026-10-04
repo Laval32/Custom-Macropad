@@ -1,8 +1,9 @@
-# 3×3 Custom Macropad
+# Custom Macropad
 
 A custom 3×3 macropad built from scratch with a **XIAO RP2040**, custom PCB, and 3D-printed case.
 
-![Macropad](overall.png)
+<img width="1348" height="1026" alt="hackpad case" src="https://github.com/user-attachments/assets/5e50875c-18dd-45e8-be9a-63ec808a40eb" />
+
 
 ## Features
 
@@ -18,15 +19,16 @@ A custom 3×3 macropad built from scratch with a **XIAO RP2040**, custom PCB, an
 
 ### Schematic
 
-![Schematic](schematic.png)
+<img width="1414" height="808" alt="hackpad schematic" src="https://github.com/user-attachments/assets/559fb2e1-05cd-49f3-b4f8-50b311146da6" />
 
 ### PCB
 
-![PCB](pcb.png)
+<img width="826" height="1072" alt="hackpad PCB" src="https://github.com/user-attachments/assets/74ebf97b-52f9-425e-a4cd-73d45c48fd9f" />
 
 ### Case
 
-![Case](case.png)
+<img width="1348" height="1026" alt="hackpad case" src="https://github.com/user-attachments/assets/58b1f569-0d0a-4504-8280-cbb8677572f9" />
+
 
 ## BOM
 
